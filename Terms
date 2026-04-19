@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms &amp; Conditions — Donna</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #1a1a1a;
+      --muted: #6b6b6b;
+      --rule: #e0ddd8;
+      --bg: #f9f7f4;
+      --accent: #2c4a3e;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+
+    header {
+      border-bottom: 1px solid var(--rule);
+      padding: 2rem 0;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .wordmark {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.25rem;
+      color: var(--accent);
+      letter-spacing: 0.02em;
+    }
+
+    .wordmark span {
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 300;
+      font-size: 0.875rem;
+      color: var(--muted);
+      margin-left: 0.75rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    nav {
+      margin-top: 0.5rem;
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    nav a {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    nav a:hover, nav a.active { color: var(--accent); }
+
+    main {
+      padding: 4rem 0 6rem;
+    }
+
+    .eyebrow {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--accent);
+      font-weight: 500;
+      margin-bottom: 1rem;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 2.75rem;
+      font-weight: 400;
+      line-height: 1.15;
+      margin-bottom: 0.75rem;
+      color: var(--ink);
+    }
+
+    .meta {
+      font-size: 0.8rem;
+      color: var(--muted);
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.35rem;
+      font-weight: 400;
+      color: var(--ink);
+      margin: 2.5rem 0 0.875rem;
+    }
+
+    p {
+      font-size: 0.975rem;
+      line-height: 1.75;
+      color: #3a3a3a;
+      margin-bottom: 1rem;
+      font-weight: 300;
+    }
+
+    ul {
+      margin: 0.5rem 0 1rem 1.25rem;
+    }
+
+    li {
+      font-size: 0.975rem;
+      line-height: 1.75;
+      color: #3a3a3a;
+      margin-bottom: 0.375rem;
+      font-weight: 300;
+    }
+
+    .divider {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 2.5rem 0;
+    }
+
+    .highlight {
+      background: white;
+      border-left: 3px solid var(--accent);
+      padding: 1rem 1.5rem;
+      margin: 1.5rem 0;
+      border-radius: 0 4px 4px 0;
+    }
+
+    .highlight p {
+      margin: 0;
+      font-size: 0.875rem;
+    }
+
+    .contact-block {
+      background: white;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 1.5rem 2rem;
+      margin-top: 2rem;
+    }
+
+    .contact-block p {
+      margin: 0;
+      font-size: 0.875rem;
+    }
+
+    footer {
+      border-top: 1px solid var(--rule);
+      padding: 2rem 0;
+    }
+
+    footer p {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <div class="wordmark">Donna <span>Executive Assistant</span></div>
+      <nav>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html" class="active">Terms &amp; Conditions</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <p class="eyebrow">Legal</p>
+      <h1>Terms &amp; Conditions</h1>
+      <p class="meta">Effective Date: April 2026 &nbsp;·&nbsp; Last Updated: April 2026</p>
+
+      <h2>Overview</h2>
+      <p>These Terms and Conditions govern SMS and MMS communications sent by Donna, the personal AI executive assistant of Nick Whittington. By receiving messages from this service, you acknowledge an existing personal or professional relationship with Nick Whittington.</p>
+
+      <h2>Service Description</h2>
+      <p>Donna is a personal AI executive assistant that sends communications on behalf of Nick Whittington. Messages sent through this service may include:</p>
+      <ul>
+        <li>Appointment reminders and scheduling confirmations</li>
+        <li>Project coordination and status updates</li>
+        <li>Household and personal logistics coordination</li>
+        <li>Follow-ups related to ongoing personal or professional matters</li>
+        <li>Time-sensitive notifications relevant to your relationship with Nick Whittington</li>
+      </ul>
+
+      <h2>Eligibility</h2>
+      <p>Messages are sent exclusively to individuals with an existing personal or professional relationship with Nick Whittington. This service is not used for marketing, promotional, or unsolicited communications.</p>
+
+      <hr class="divider">
+
+      <h2>Message Frequency</h2>
+      <p>Message frequency varies based on active projects, appointments, and the nature of your relationship with Nick Whittington. There is no fixed messaging schedule. You will only receive messages relevant to your specific relationship or involvement in a project.</p>
+
+      <h2>Message and Data Rates</h2>
+      <div class="highlight">
+        <p>Standard message and data rates may apply depending on your mobile carrier and plan. Nick Whittington and Donna are not responsible for any charges incurred by your mobile carrier.</p>
+      </div>
+
+      <h2>Opt-Out</h2>
+      <p>You may opt out of receiving messages at any time by replying <strong>STOP</strong> to any message from this service. Upon receipt of your opt-out request, you will be removed from future communications. To request assistance, reply <strong>HELP</strong>.</p>
+
+      <h2>No Warranty</h2>
+      <p>Communications from this service are provided on an as-is basis. While every effort is made to ensure accuracy and timeliness, Nick Whittington makes no warranties regarding the completeness or accuracy of any message content.</p>
+
+      <h2>Limitation of Liability</h2>
+      <p>Nick Whittington shall not be liable for any damages arising from your use of or reliance on communications sent through this service, including but not limited to any errors, omissions, or delays in message delivery.</p>
+
+      <h2>Modifications</h2>
+      <p>Nick Whittington reserves the right to modify these Terms and Conditions at any time. Continued receipt of messages following any modification constitutes your acceptance of the updated terms.</p>
+
+      <h2>Governing Law</h2>
+      <p>These Terms and Conditions are governed by the laws of the State of Missouri, without regard to conflict of law provisions.</p>
+
+      <div class="contact-block">
+        <p>Questions about these terms? Contact Nick Whittington directly via your existing communication channel.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Nick Whittington. Donna is a personal AI executive assistant.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
